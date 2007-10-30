@@ -1,0 +1,1 @@
+java -Djava.library.path=lib/windows -jar SmsToDb.jar smstodb.properties
